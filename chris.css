@@ -95,11 +95,33 @@ nav a {
 	margin-right: auto;
 	height: 31px;
 	width: 88px;
-	content: url('assets/cc-icon.png');
+	background-image: url('assets/cc-icon.png');
 }
 
 #attrib {
 	margin-bottom: 0;
 	font-size: 15px;
 	text-align: center;
+}
+
+.resume-menu {
+	font-size: 22px;
+}
+
+.resume-menu p:first-child {
+	font-size: 25px;
+}
+
+.resume-menu p:nth-child(2) { 
+	margin-left: 50px;
+}
+
+.resume-menu ul {
+	margin-left: 50px;
+	list-style-image: url('assets/flame.jpg');
+}
+
+.resume-menu li {
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
