@@ -1,6 +1,43 @@
-Videos:
+Managed the creation of every SparkFun assembly since 2011
+
+PRODUCTS
+SPI Shortcut
+Logomatic v2
+LittleBits
+Musical Instrument Shield
+Midi Shield
+Midi Breakout
+WiFly Shield
+Avago Color Sensor
+LED Table
+In2
+OLED Breakout
+RGB Backpack
+
+PROJECTS
+Jam Box
+This website
+In2
+In2 Power Board
+Hackerspace
+Delorian
+Felix Baumgartner
+Antimov
+Edison
+Snapdragon
+Private contract for Flaming Lips
+Keynote Berlin Talk
+Traveling
+	Makerfaire
+	HOPE
+	Defcon
+Most viewed tutorial on SparkFun (VIR)
+Most viewed video on SparkFun
+OkDigger
+SparkCrawler
 
 
+VIDEOS
 Infrared Shark
 https://www.youtube.com/watch?v=V4nM8qd07fE
 
@@ -29,8 +66,7 @@ Jellyfish
 https://www.youtube.com/watch?v=SMcMzwOOjeU
 
 
-Blogs:
-
+BLOGS
 https://www.sparkfun.com/news/1140
 https://www.sparkfun.com/news/1261
 https://www.sparkfun.com/news/1391
@@ -50,5 +86,22 @@ https://www.sparkfun.com/news/700
 https://www.sparkfun.com/news/335
 
 
-Tutorials:
+TUTORIALS
 https://www.sparkfun.com/tutorials/158
+https://learn.sparkfun.com/tutorials/serial-communication (resolves to Jim)
+https://www.sparkfun.com/tutorials/302
+https://www.sparkfun.com/tutorials/318
+https://www.sparkfun.com/tutorials/269
+https://www.sparkfun.com/tutorials/254
+https://www.sparkfun.com/tutorials/91
+https://www.sparkfun.com/tutorials/158
+https://www.sparkfun.com/tutorials/328
+https://www.sparkfun.com/tutorials/330
+https://www.sparkfun.com/tutorials/245
+https://www.sparkfun.com/tutorials/339
+https://www.sparkfun.com/tutorials/335
+https://www.sparkfun.com/tutorials/252
+https://www.sparkfun.com/tutorials/261
+https://www.sparkfun.com/tutorials/226
+https://www.sparkfun.com/tutorials/295
+

@@ -1,0 +1,13 @@
+Major
+	Python
+	C
+	C++
+	Architecture
+
+Minor
+	Java
+	Javascript
+	PHP
+	JQuery
+	CSS
+	
