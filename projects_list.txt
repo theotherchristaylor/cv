@@ -1,6 +1,8 @@
 Managed the creation of every SparkFun assembly since 2011
 
 PRODUCTS
+In2
+In2 Power Board
 SPI Shortcut
 Logomatic v2
 LittleBits
@@ -17,25 +19,24 @@ RGB Backpack
 PROJECTS
 Jam Box
 This website
-In2
-In2 Power Board
 Hackerspace
-Delorian
-Felix Baumgartner
 Antimov
 Edison
 Snapdragon
 Private contract for Flaming Lips
 Keynote Berlin Talk
-Traveling
-	Makerfaire
-	HOPE
 	Defcon
 Most viewed tutorial on SparkFun (VIR)
 Most viewed video on SparkFun
 OkDigger
 SparkCrawler
 
+USER PROJECTS
+Delorian
+Felix Baumgartner
+Traveling
+	Makerfaire
+	HOPE
 
 VIDEOS
 Infrared Shark
