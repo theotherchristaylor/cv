@@ -9,12 +9,14 @@ LittleBits
 Musical Instrument Shield
 Midi Shield
 Midi Breakout
+VS1053
 WiFly Shield
+SPI to UART Breakout
 Avago Color Sensor
 LED Table
-In2
 OLED Breakout
 RGB Backpack
+Spectrum Shield
 
 PROJECTS
 Jam Box

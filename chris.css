@@ -202,7 +202,7 @@ nav a {
 	position: relative;
 	margin-left: auto;
 	margin-right:auto;
-	width: 69px;
+	width: 100px;
 	height: 100px;
 	padding-left: 1px;
 }
@@ -210,11 +210,15 @@ nav a {
 .separator div {
 	display: inline-block;
 	position: relative;
-	margin-top: 40px;
-	height: 20px;
-	width: 20px;
-	border-radius: 10px;
-	background-color: white;
+	margin-top: 35px;
+	height: 30px;
+	width: 100px;
+	border-radius: 3px;
+	background-color: black;
+	text-align: center;
+	color: white;
+	margin-left: -3px;
+	border: solid 2px gray;
 }
 
 #irshark { background-image: url("assets/shark-thumb.png"); color: white; }
@@ -223,3 +227,25 @@ nav a {
 #sign { background-image: url("assets/sign-thumb.png"); color: white; }
 #captouch {background-image: url("assets/capsense-thumb.png"); color: white;}
 #pedal {background-image: url("assets/pedal-thumb.png"); color: white;}
+#antimov {background-image: url("assets/antimov.jpg"); color: white;}
+#okdigger {background-image: url("assets/okcupid-thumb.png"); color: white;}
+#knocker {background-image: url("assets/knocker-thumb.png"); color: white;}
+#ssd {background-image: url("assets/ssd-thumb.png"); color: black;}
+
+/* Products */
+
+#logomatic {background-image: url("assets/logomatic-thumb.png"); color: white;}
+#wifly {background-image: url("assets/wifly-thumb.png"); color: black;}
+#musical {background-image: url("assets/musical-instrument-thumb.png"); color: white;}
+
+#in2 {background-image: url("assets/in2-thumb.png"); color: white;}
+#shortcut {background-image: url("assets/spi-shortcut-thumb.png"); color: white;}
+#littlebits {background-image: url("assets/littlebits-thumb.png"); color: white;}
+#midi-breakout {background-image: url("assets/midi-breakout-thumb.png"); color: white;}
+#midi-shield {background-image: url("assets/midi-shield-thumb.png"); color: white;}
+#vs1053 {background-image: url("assets/vs1053-thumb.png"); color: white;}
+#spi-uart {background-image: url("assets/spi_uart.jpg"); color: white;}
+#color-sensor {background-image: url("assets/color-sensor-thumb.png"); color: white;}
+#oled-breakout {background-image: url("assets/oled-breakout-thumb.png"); color: white;}
+#rgb-backpack {background-image: url("assets/rgb-backpack-thumb.png"); color: white;}
+#spectrum {background-image: url("assets/spectrum-shield.jpg"); color: white;}
