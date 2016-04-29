@@ -1,0 +1,33 @@
+PCB Layout -- Eagle CAD
+C
+C++
+Python
+AVR Embedded System Development
+ARM Embedded System Development
+Github Version Control
+Agile Project Management
+Project Management
+    12-person development and support team
+    Coordinated development, revision and release of over 400 products
+    Coordinated support team, including QA, Content, Revision, Market Research
+    Coordinated release campaigns -- Edison, Snapdragon
+    Developed entire product development and revision process for entire company
+        Included integration with MarComm, QC, Production, etc. etc. 
+Hobbyist Product Development
+    SparkFun Boards
+    Example Code
+    Getting Started Guides
+    Datasheets
+Consumer Product Development
+    In2
+    LittleBits
+    MakeyMakey
+Founded the Boulder Hackerspace
+Public Speaking -- Keynote Speeches
+Negotiated deals with suppliers
+Distributor outreach
+Promotional work
+    MakerFaire SF, NY, Rome, Austin
+    Mini MakerFaire Aspen
+Managed/Participated in 20+ collaborative products
+Collaborated with Intel, QualComm

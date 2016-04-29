@@ -1,0 +1,276 @@
+/*
+ * TODO: 
+ * Change font sizes to relative
+ *
+ */
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	font-family: "PT Sans Narrow", sans-serif;
+	color: white;
+	font-size: 20px;
+}
+
+a:link {
+	color: gray;
+	text-decoration: none;
+}
+
+a:visited {
+	color: gray;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+nav {
+	display: block;
+	text-align: center;
+	margin-top: 50px;
+}
+
+nav a {
+	padding: 10px;
+}
+
+.minor-heading {
+	text-align: center;
+	font-size: 32px;
+	margin:0;
+}
+
+#logo { 
+	color: white;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	display: table;
+	font-size: 3.9em;
+	font-family: 'Lobster', sans-serif;
+	background-color: black;
+}
+
+.info-text {
+	padding: 50px;
+	margin: 0 auto;
+	width: 400px;
+}
+
+#colophon {
+	display: block;
+	height: 100%;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	background-color: black;
+	margin-top: 0;
+}
+
+#splash {
+	margin: 0 auto;
+	margin-top: 60px;
+	height: 596px;
+	width: 400px;
+	background-image: url('assets/FACE.jpg');
+	background-repeat: no-repeat;
+	border: 2px solid #0f0f0f;
+	border-radius: 20px;
+}
+
+#cc-icon {
+	margin-top: 4em;
+	margin-left: auto;
+	margin-right: auto;
+	height: 31px;
+	width: 88px;
+	background-image: url('assets/cc-icon.png');
+}
+
+#attrib {
+	margin-bottom: 0;
+	font-size: 15px;
+	text-align: center;
+}
+
+.resume-menu {
+	font-size: 22px;
+}
+
+.resume-menu p:first-child {
+	font-size: 25px;
+}
+
+.resume-menu p:nth-child(2) { 
+	margin-left: 50px;
+}
+
+.resume-menu ul {
+	margin-left: 50px;
+	list-style-image: url('assets/flame.jpg');
+}
+
+.resume-menu li {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#twitter {	
+	display: inline-block;
+	margin: 0 0 0 0;
+	height: 128px;
+	width: 128px;
+	background-image: url("assets/twitter.png");
+}
+
+#github {
+	display: inline-block;
+	margin: 0 0 0 0;
+	height: 128px;
+	width: 128px;
+	background-image: url("assets/github.png");
+}
+
+#email {
+	display: inline-block;
+	margin: 50 50 15 0;
+	height: 95px;
+	width: 95px;
+	background-image: url("assets/email.png");
+}
+
+#icons {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height:128px;
+	width: 95px;
+}
+
+.thumb-row {
+}
+
+.left-col {
+	display: inline-block;
+	height: 150px;
+	width: 263px;
+	margin-top: 5px;
+	background-size: cover;
+	margin-left: 0;
+	float: left;
+	text-align: center;
+}
+.middle-col {
+	display: inline-block;
+	height: 150px;
+	width: 263px;
+	background-size: cover;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 1px;
+	text-align: center;
+}
+.right-col {
+	display: inline-block;
+	height: 150px;
+	width: 263px;
+	background-size: cover;
+	/*float: right;*/
+	margin-right: 0;
+	margin-top: 5px;
+	text-align: center;
+}
+
+.thumb-caption {
+	font-size: 25px;
+	margin-top: 55px;
+}
+
+.separator {
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right:auto;
+	width: 100px;
+	height: 100px;
+	padding-left: 1px;
+}
+
+.separator div {
+	display: inline-block;
+	position: relative;
+	margin-top: 35px;
+	height: 30px;
+	width: 100px;
+	border-radius: 3px;
+	background-color: black;
+	text-align: center;
+	color: white;
+	margin-left: -3px;
+	border: solid 2px gray;
+}
+
+#left-half {
+	display: inline-block;
+	padding-top: 20px;
+	width: 398px;
+	height: 700px;
+	text-align: center;
+	float: left;
+	border: 1px solid gray;
+}
+
+#right-half {
+	display: inline-block;
+	padding-top: 20px;
+	width: 398px;
+	height: 700px;
+	text-align: center;
+	float: right;
+	border: 1px solid gray;
+}
+
+/* Projects */
+
+#irshark { background-image: url("assets/shark-thumb.png"); color: white; }
+#jellyfish { background-image: url("assets/jellyfish-thumb.png"); color: white; }
+#flame { background-image: url("assets/flame-thumb.png"); color: black; }
+
+#sign { background-image: url("assets/sign-thumb.png"); color: white; }
+#captouch {background-image: url("assets/capsense-thumb.png"); color: white;}
+#pedal {background-image: url("assets/pedal-thumb.png"); color: white;}
+#antimov {background-image: url("assets/antimov.jpg"); color: white;}
+#okdigger {background-image: url("assets/okcupid-thumb.png"); color: white;}
+#knocker {background-image: url("assets/knocker-thumb.png"); color: white;}
+#ssd {background-image: url("assets/ssd-thumb.png"); color: black;}
+
+/* Products */
+
+#logomatic {background-image: url("assets/logomatic-thumb.png"); color: white;}
+#wifly {background-image: url("assets/wifly-thumb.png"); color: black;}
+#musical {background-image: url("assets/musical-instrument-thumb.png"); color: white;}
+
+#in2 {background-image: url("assets/in2-thumb.png"); color: white;}
+#shortcut {background-image: url("assets/spi-shortcut-thumb.png"); color: white;}
+#littlebits {background-image: url("assets/littlebits-thumb.png"); color: white;}
+#midi-breakout {background-image: url("assets/midi-breakout-thumb.png"); color: white;}
+#midi-shield {background-image: url("assets/midi-shield-thumb.png"); color: white;}
+#vs1053 {background-image: url("assets/vs1053-thumb.png"); color: white;}
+#spi-uart {background-image: url("assets/spi-uart-thumb.png"); color: white;}
+#color-sensor {background-image: url("assets/color-sensor-thumb.png"); color: white;}
+#oled-breakout {background-image: url("assets/oled-breakout-thumb.png"); color: white;}
+#rgb-backpack {background-image: url("assets/rgb-backpack-thumb.png"); color: white;}
+#spectrum {background-image: url("assets/spectrum-thumb.png"); color: white;}
+
+/* Writing */
